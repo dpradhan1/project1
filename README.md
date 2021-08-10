@@ -1,7 +1,7 @@
 # project1
 Grades
 
-x = int(input("Enter the numeric score ="))
+x = float(input("Enter the numeric score ="))
 if x >= 90:
     print('Your grade is A')
 elif x >= 80:
